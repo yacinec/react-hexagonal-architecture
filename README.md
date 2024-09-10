@@ -62,6 +62,8 @@ The components in this folder do not correspond to generic components, but to th
 If we take the `TodoAdd` component as an example, it calls the `TodoContext` context to add a new task each time a user clicks.
 
 
-## Go further
+## Contact
 
 If you'd like to discuss this implementation further, or suggest another way of implementing this architecture, please don't hesitate to contact me. I find this subject fascinating and I'm always happy to talk about it.
+
+You can reach me on [Twitter @yacinec_dev](https://x.com/yacinec_dev)
